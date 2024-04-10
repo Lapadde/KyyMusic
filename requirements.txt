@@ -1,9 +1,9 @@
 tgcrypto
-pyrogram==1.4.16
-py-tgcalls==0.9.1
+pyrogram
+py-tgcalls
 pybase64
 youtube-search-python
-yt-dlp==2021.11.10.1
+yt-dlp
 ffmpeg-python
 aiohttp
 aiofiles
@@ -30,9 +30,9 @@ telegraph
 lyricsgenius
 hachoir
 lyricsgenius
-httpx>=0.14.2
+httpx
 gitpython
 rich
 heroku3
-pytz==2021.3
-APScheduler==3.8.1
+pytz
+APScheduler
